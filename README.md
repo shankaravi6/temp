@@ -6,7 +6,7 @@ Animation - React Awesome Reveal & Framer Motion (https://react-awesome-reveal.m
 State management - Redux Toolkit (https://redux-toolkit.js.org/)
 Validation - Formik & Yup (https://formik.org/docs/guides/validation & https://www.npmjs.com/package/yup)
 Carousel - React Slick (https://react-slick.neostack.com/) & Splide (https://splidejs.com/)
-CSS Framework - Tailwind (https://tailwindcss.com/) & Emotion (https://emotion.sh/docs/introduction)
+CSS Framework - Tailwind (https://tailwindcss.com/) & Emotion (https://emotion.sh/docs/introduction) & StyleX (https://stylexjs.com/)
 UI Components - MUI & Styled Components (https://mui.com/material-ui/all-components/ & https://styled-components.com/)
 Icons - MUI Icons & React Icons (https://mui.com/material-ui/material-icons/ & https://react-icons.github.io/react-icons/)
 Charts - HighchartsRecharts (https://www.highcharts.com/ & https://recharts.org/en-US)
